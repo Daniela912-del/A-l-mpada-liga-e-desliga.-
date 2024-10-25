@@ -1,0 +1,20 @@
+head, main{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+button{
+    width: 80px;
+}
+
+body{
+  
+    color: rgb(28, 141, 241);
+}
+
+h1{
+    text-align: center;
+    gap:10px;
+    font-size: 40px;
+
+}
